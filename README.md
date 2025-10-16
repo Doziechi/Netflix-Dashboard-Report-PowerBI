@@ -33,7 +33,7 @@ The objective of this project is to explore and visualize Netflix’s global con
 
 ### Tools Used
 
-- Power BI (Visualization)
-- Microsoft Excel (Data source preparation)
+- Power BI (Visualization) [Download Here](Microsoft.com)
+- Microsoft Excel (Data source preparation) [Download Here](Microsoft.com)
 
 
